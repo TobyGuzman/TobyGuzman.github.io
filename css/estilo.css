@@ -1,0 +1,51 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body>header {
+    background-color: rgb(19, 19, 19);
+    color: #EFEFEF;
+    font-family: 'Varela Round', sans-serif;
+
+
+}
+
+header>img {
+    float: left;
+}
+
+body>header>div {
+    display: inline-block
+}
+
+aside {
+    position: absolute;
+    top: 200px;
+    width: 200px;
+    right: 10px;
+    z-index: 2;
+    border: 1px solid grey;
+    background-color: white;
+    border-radius: 15px;
+    padding: 1em;
+
+}
+
+
+main {
+    background-image: url(img/fondo2.jpg);
+    font-size: large;
+
+}
+
+    
+
+
+
+
+
+
+
+    
